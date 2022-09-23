@@ -1,0 +1,11 @@
+.bodyTable {
+    width: 100%;
+}
+
+table {
+    border-radius: 5px;
+    width: calc(100% - 20px) !important;
+    box-shadow: 0 0 10px black;
+    background: #2e2e2e;
+    margin: 10px;
+}
